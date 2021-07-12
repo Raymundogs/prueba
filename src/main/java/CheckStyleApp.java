@@ -15,7 +15,7 @@ public final class CheckStyleApp {
      *
      * @param text
      */
-    public void hello(final String text) {
+    public void hello(String text) {
         System.out.println("xd");
     }
 }
